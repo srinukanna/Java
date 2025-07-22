@@ -65,3 +65,12 @@ S-> Special symbols
 #### Relational Operators
 Used to compare two variables and always return a boolean value.
 <,>,<=,>=,==,!
+
+#### Logical Operators
+&&
+||
+
+0 ->false
+1 ->true
+
+true && true -> true (main condition)
