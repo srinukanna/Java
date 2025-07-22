@@ -1,8 +1,8 @@
 #### Java software editions
  ```
  Java SE  -To develop desktop applications
- Java EE - To develop web applications
- Java ME - To develop mobile applications
+ Java Enterprise Edition - To develop web applications
+ Java MicroEdition - To develop mobile applications
 
  JDK -> .class file -> JRE-> runs the class it is converted to byte code ->JVM -> byte code to m/c code
  ```
@@ -42,4 +42,26 @@ nextBoolean();
 next();
 nextLine();
 
+# Day-1
 Introduction to java,what is java,inventor,features,characteristics,identifiers,keywords,datatypes,scanner class
+
+# Day-2
+Operators,Conditional statements
+
+#### operators
+ARLABCODES
+A-> Arithmetic Operators
+R-> Relational Operators
+L-> Logical Operators
+A-> Assignment Operators
+B-> Bitwise Operators
+CO-> Conditional operators
+DE-> Decrement/Increment(Unary)
+S-> Special symbols
+
+#### Arithmetic Operators
++,-,*,/,%
+
+#### Relational Operators
+Used to compare two variables and always return a boolean value.
+<,>,<=,>=,==,!
