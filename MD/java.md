@@ -87,7 +87,7 @@ if
 if-else
 else if ladder
 nested if
-
+switch case
 # Questions
 1.check if even or odd
 2.greater of two numbers
@@ -105,3 +105,8 @@ bill=units*3;
 4.Number is positive or negative
 
 5.if a year is leap year or not
+
+6.make a basic calculator using switch case
+ char ch;
+ ch = sc.next().charAt(0);
+

@@ -1,7 +1,7 @@
 package Basic_programs;
 
 public class arithmeticop_long {
-    public static void main(String[] args)
+ public static void main(String[] args)
     {
         long a =100;
         long b=200;
