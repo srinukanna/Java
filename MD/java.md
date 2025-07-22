@@ -73,4 +73,35 @@ Used to compare two variables and always return a boolean value.
 0 ->false
 1 ->true
 
+### Logical And(&&)
 true && true -> true (main condition)
+
+### Logical OR(||)
+ if any one condition is true in two conditions returns true
+
+### Logical NOT(!)
+  Reverse the boolean value
+
+### conditional statements
+if
+if-else
+else if ladder
+nested if
+
+# Questions
+1.check if even or odd
+2.greater of two numbers
+3.Grades system a,b,c using else if ladder
+
+3.Electricity bill
+conditions;
+units<=100
+bill=units*1;
+units<=200:
+bill =units*2;
+units>200
+bill=units*3;
+
+4.Number is positive or negative
+
+5.if a year is leap year or not
